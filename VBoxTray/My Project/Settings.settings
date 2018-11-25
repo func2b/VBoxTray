@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="VM_PATH" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Program Files\Oracle\VirtualBox</Value>
+    </Setting>
+    <Setting Name="X_PATH" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Program Files (x86)\Xming</Value>
+    </Setting>
+    <Setting Name="X_CONFIG" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\apps\config\config.xlaunch</Value>
+    </Setting>
+    <Setting Name="XSHELL_CONFIG" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\apps\config\fedora-VM</Value>
+    </Setting>
+    <Setting Name="XSHELL_PATH" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Program Files (x86)\NetSarang\Xshell 6</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
